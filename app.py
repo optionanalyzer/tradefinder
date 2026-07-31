@@ -13,7 +13,7 @@ import hashlib
 # ===================================================================
 # ⚠️ HARDCODE YOUR ACCESS TOKEN HERE
 # ===================================================================
-ACCESS_TOKEN = "eyJ0eXAiOiJKV1QiLCJrZXlfaWQiOiJza192MS4wIiwiYWxnIjoiSFMyNTYifQ.eyJzdWIiOiIzTUJDMzIiLCJqdGkiOiI2YTZhYjk0ODhhMjRiODY1ZWQyMzUzY2EiLCJpc011bHRpQ2xpZW50IjpmYWxzZSwiaXNQbHVzUGxhbiI6ZmFsc2UsImlhdCI6MTc4NTM3OTE0NCwiaXNzIjoidWRhcGktZ2F0ZXdheS1zZXJ2aWNlIiwiZXhwIjoxNzg1NDQ4ODAwfQ.j1Vsy-7HrSvXw3QN-oOL3aOHbx0eXEjmtedV2-B18uQ" 
+ACCESS_TOKEN = "eyJ0eXAiOiJKV1QiLCJrZXlfaWQiOiJza192MS4wIiwiYWxnIjoiSFMyNTYifQ.eyJzdWIiOiIzTUJDMzIiLCJqdGkiOiI2YTZjMTkwMjUzZDI0ZDBjODhmZTVlMzYiLCJpc011bHRpQ2xpZW50IjpmYWxzZSwiaXNQbHVzUGxhbiI6ZmFsc2UsImlhdCI6MTc4NTQ2OTE4NiwiaXNzIjoidWRhcGktZ2F0ZXdheS1zZXJ2aWNlIiwiZXhwIjoxNzg1NTM1MjAwfQ.7ErmMDkl-gCKbTnz0qc8N7bghnvDfaKL72B7H91pDDA" 
 
 # ===================================================================
 # 0. DATABASE & SINGLE-SESSION AUTHENTICATION ENGINE
